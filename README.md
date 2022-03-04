@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Jeremiah Otieno
 - 👀 I’m interested in android development, backend development with Spring boot and Qt Qml
-- 🌱 I’m currently a student at Kenyatta University studying Information Technology
-- 💞️ I’m looking to collaborate on ...
+
+- 💞️ I’m looking to collaborate on android projects,Java projects.
 - 📫 How to reach me email otienoj383@gmail.com phone +254748712714
 
 <!---
